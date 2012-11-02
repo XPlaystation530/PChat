@@ -1,0 +1,17 @@
+name: PChat
+version: 1.0
+website: ironcraft.fr
+main: fr.playstation.PChat
+commands:
+  prefix:
+    description: Changez le prefix d'un joueur
+  suffix:
+    description: Changez le suffix d'un joueur
+  nom:
+    description: Changez le nom d'un joueur
+  couleur:
+    description: Changez la couleur d'un joueur
+  reset:
+    description: Reset l'ecriture de couleur, le prefix, le suffix, et le nom d'un joueur
+  pchat:
+    description: Commande d'aide du plugin PChat
